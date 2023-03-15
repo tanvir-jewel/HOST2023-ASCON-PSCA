@@ -2,19 +2,14 @@
 HOST 2023 IP Security Competition Materials by Team JayHackers
 ```
 project
-│   README.md
-│   file001.txt    
-│
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
-│   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+│   README.md  
+└───dpa_scripts
+│   │   DPA_initialization_ASCON_simulated_traces_selection_function.ipynb
+│   │   KKC_DPA_ASCON_initalization_measured_traces.ipynb
+└───dpa_countermeasures
+|   │   unrolled_implementation
+└───dfa_scripts
+|   │   ReadMe.txt
+└───dfa_countermeasures
+    │   ecc_implementation  
 ```
