@@ -1,7 +1,7 @@
 # HOST23_IP_Sec_JayHackers
 HOST 2023 IP Security Competition Materials by Team JayHackers
 ```
-project
+HOST23_IP_Sec_JayHackers
 │   README.md  
 └───dpa_scripts
 │   │   DPA_initialization_ASCON_simulated_traces_selection_function.ipynb
