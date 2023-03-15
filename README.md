@@ -9,9 +9,9 @@ HOST23_IP_Sec_JayHackers
 │   │   DPA_initialization_ASCON_simulated_traces_selection_function.ipynb
 │   │   KKC_DPA_ASCON_initalization_measured_traces.ipynb
 └───dpa_countermeasures
-|   │   unrolled_implementation
+|   └───unrolled_implementation
 └───dfa_scripts
 |   │   ReadMe.txt
 └───dfa_countermeasures
-    │   ecc_implementation  
+    └───ecc_implementation  
 ```
