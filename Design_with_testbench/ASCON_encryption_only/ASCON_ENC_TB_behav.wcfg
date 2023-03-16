@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ASCON_ENC_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="ASCON_ENC_TB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="55000001fs"></ZoomEndTime>
+      <Cursor1Time time="11000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="186"></NameColumnWidth>
+      <ValueColumnWidth column_width="488"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="46" />
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xi0" type="array">
+      <obj_property name="ElementShortName">Xi0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xi0[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xi1" type="array">
+      <obj_property name="ElementShortName">Xi1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xi1[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xi2" type="array">
+      <obj_property name="ElementShortName">Xi2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xi2[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xi3" type="array">
+      <obj_property name="ElementShortName">Xi3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xi3[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xi4" type="array">
+      <obj_property name="ElementShortName">Xi4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xi4[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Roundconstant" type="array">
+      <obj_property name="ElementShortName">Roundconstant[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Roundconstant[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xo0" type="array">
+      <obj_property name="ElementShortName">Xo0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo0[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xo1" type="array">
+      <obj_property name="ElementShortName">Xo1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo1[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xo2" type="array">
+      <obj_property name="ElementShortName">Xo2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo2[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xo3" type="array">
+      <obj_property name="ElementShortName">Xo3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo3[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xo4" type="array">
+      <obj_property name="ElementShortName">Xo4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo4[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xark0" type="array">
+      <obj_property name="ElementShortName">Xark0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark0[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xark1" type="array">
+      <obj_property name="ElementShortName">Xark1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark1[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xark2" type="array">
+      <obj_property name="ElementShortName">Xark2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark2[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xark3" type="array">
+      <obj_property name="ElementShortName">Xark3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark3[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xark4" type="array">
+      <obj_property name="ElementShortName">Xark4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark4[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xsb0" type="array">
+      <obj_property name="ElementShortName">Xsb0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb0[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xsb1" type="array">
+      <obj_property name="ElementShortName">Xsb1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb1[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xsb2" type="array">
+      <obj_property name="ElementShortName">Xsb2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb2[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xsb3" type="array">
+      <obj_property name="ElementShortName">Xsb3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb3[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/Xsb4" type="array">
+      <obj_property name="ElementShortName">Xsb4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb4[63:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xark0" type="array">
+      <obj_property name="ElementShortName">Xark0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark0[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xark1" type="array">
+      <obj_property name="ElementShortName">Xark1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark1[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xark2" type="array">
+      <obj_property name="ElementShortName">Xark2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark2[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xark3" type="array">
+      <obj_property name="ElementShortName">Xark3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark3[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xark4" type="array">
+      <obj_property name="ElementShortName">Xark4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark4[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xsb0" type="array">
+      <obj_property name="ElementShortName">Xsb0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb0[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xsb1" type="array">
+      <obj_property name="ElementShortName">Xsb1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb1[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xsb2" type="array">
+      <obj_property name="ElementShortName">Xsb2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb2[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xsb3" type="array">
+      <obj_property name="ElementShortName">Xsb3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb3[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xsb4" type="array">
+      <obj_property name="ElementShortName">Xsb4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb4[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xa0" type="array">
+      <obj_property name="ElementShortName">Xa0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xa0[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xa1" type="array">
+      <obj_property name="ElementShortName">Xa1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xa1[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xa2" type="array">
+      <obj_property name="ElementShortName">Xa2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xa2[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xa3" type="array">
+      <obj_property name="ElementShortName">Xa3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xa3[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xa4" type="array">
+      <obj_property name="ElementShortName">Xa4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xa4[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xb0" type="array">
+      <obj_property name="ElementShortName">Xb0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xb0[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xb1" type="array">
+      <obj_property name="ElementShortName">Xb1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xb1[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xb2" type="array">
+      <obj_property name="ElementShortName">Xb2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xb2[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xb3" type="array">
+      <obj_property name="ElementShortName">Xb3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xb3[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xb4" type="array">
+      <obj_property name="ElementShortName">Xb4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xb4[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xc0" type="array">
+      <obj_property name="ElementShortName">Xc0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xc0[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xc1" type="array">
+      <obj_property name="ElementShortName">Xc1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xc1[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xc2" type="array">
+      <obj_property name="ElementShortName">Xc2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xc2[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xc3" type="array">
+      <obj_property name="ElementShortName">Xc3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xc3[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_ENC_TB/DUT/ascondatapath1/asconRF1/asconsbox1/Xc4" type="array">
+      <obj_property name="ElementShortName">Xc4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xc4[63:0]</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ASCON_main_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="ASCON_main_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="25833333fs"></ZoomStartTime>
+      <ZoomEndTime time="180833334fs"></ZoomEndTime>
+      <Cursor1Time time="155000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="186"></NameColumnWidth>
+      <ValueColumnWidth column_width="186"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="39" />
+   <wvobject fp_name="/ASCON_main_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/start" type="logic">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/key" type="array">
+      <obj_property name="ElementShortName">key[127:0]</obj_property>
+      <obj_property name="ObjectShortName">key[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/nonce" type="array">
+      <obj_property name="ElementShortName">nonce[127:0]</obj_property>
+      <obj_property name="ObjectShortName">nonce[127:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/Xo0F" type="array">
+      <obj_property name="ElementShortName">Xo0F[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo0F[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/Xo1F" type="array">
+      <obj_property name="ElementShortName">Xo1F[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo1F[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/Xo2F" type="array">
+      <obj_property name="ElementShortName">Xo2F[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo2F[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/Xo3F" type="array">
+      <obj_property name="ElementShortName">Xo3F[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo3F[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/Xo4F" type="array">
+      <obj_property name="ElementShortName">Xo4F[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo4F[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/done" type="logic">
+      <obj_property name="ElementShortName">done</obj_property>
+      <obj_property name="ObjectShortName">done</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/inFile" type="array">
+      <obj_property name="ElementShortName">inFile[31:0]</obj_property>
+      <obj_property name="ObjectShortName">inFile[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/outFile" type="array">
+      <obj_property name="ElementShortName">outFile[31:0]</obj_property>
+      <obj_property name="ObjectShortName">outFile[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/scan" type="array">
+      <obj_property name="ElementShortName">scan[31:0]</obj_property>
+      <obj_property name="ObjectShortName">scan[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/clk_count" type="array">
+      <obj_property name="ElementShortName">clk_count[19:0]</obj_property>
+      <obj_property name="ObjectShortName">clk_count[19:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/asconcont1/cstate" type="array">
+      <obj_property name="ElementShortName">cstate[5:0]</obj_property>
+      <obj_property name="ObjectShortName">cstate[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/asconcont1/nstate" type="array">
+      <obj_property name="ElementShortName">nstate[5:0]</obj_property>
+      <obj_property name="ObjectShortName">nstate[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xi0" type="array">
+      <obj_property name="ElementShortName">Xi0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xi0[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xi1" type="array">
+      <obj_property name="ElementShortName">Xi1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xi1[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xi2" type="array">
+      <obj_property name="ElementShortName">Xi2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xi2[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xi3" type="array">
+      <obj_property name="ElementShortName">Xi3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xi3[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xi4" type="array">
+      <obj_property name="ElementShortName">Xi4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xi4[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Roundconstant" type="array">
+      <obj_property name="ElementShortName">Roundconstant[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Roundconstant[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xo0" type="array">
+      <obj_property name="ElementShortName">Xo0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo0[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xo1" type="array">
+      <obj_property name="ElementShortName">Xo1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo1[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xo2" type="array">
+      <obj_property name="ElementShortName">Xo2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo2[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xo3" type="array">
+      <obj_property name="ElementShortName">Xo3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo3[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xo4" type="array">
+      <obj_property name="ElementShortName">Xo4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xo4[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xark0" type="array">
+      <obj_property name="ElementShortName">Xark0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark0[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xark1" type="array">
+      <obj_property name="ElementShortName">Xark1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark1[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xark2" type="array">
+      <obj_property name="ElementShortName">Xark2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark2[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xark3" type="array">
+      <obj_property name="ElementShortName">Xark3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark3[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xark4" type="array">
+      <obj_property name="ElementShortName">Xark4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xark4[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xsb0" type="array">
+      <obj_property name="ElementShortName">Xsb0[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb0[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xsb1" type="array">
+      <obj_property name="ElementShortName">Xsb1[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb1[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xsb2" type="array">
+      <obj_property name="ElementShortName">Xsb2[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb2[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xsb3" type="array">
+      <obj_property name="ElementShortName">Xsb3[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb3[63:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ASCON_main_tb/DUT/ascondatapath1/asconRF1/Xsb4" type="array">
+      <obj_property name="ElementShortName">Xsb4[63:0]</obj_property>
+      <obj_property name="ObjectShortName">Xsb4[63:0]</obj_property>
+   </wvobject>
+</wave_config>
