@@ -1,0 +1,2 @@
+// This file typically lists flags required by a large project, e.g. include directories
+ASCON_DATAPATH.v ASCON_ROUND_CONSTANT.v ASCON_ROUND_FUNCTION.v ASCON_SBOX.v ASCON_CONTROLER.v ASCONpadding.v
