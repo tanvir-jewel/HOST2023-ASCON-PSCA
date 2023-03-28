@@ -1,9 +1,12 @@
 # HOST23_IP_Sec_JayHackers
 HOST 2023 IP Security Competition Materials by Team JayHackers
-```
+
 HOST23_IP_Sec_JayHackers
 │   README.md  
-└───ASCON_RTL_simulation
+└───presentations
+│   │   ```HOST_IPSec_Team_JayHackers_Phase-I.pptx```
+└───rtl
+    └───ecc_ASCON_AEAD: Error Correct Code
 │   │   tb_ASCON_AEAD.sv
 │   │   testbench.md
 │   │   translated_blocks.txt
@@ -19,4 +22,4 @@ HOST23_IP_Sec_JayHackers
 |   │   ReadMe.txt
 └───dfa_countermeasures
     └───ecc_implementation  
-```
+
