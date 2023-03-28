@@ -2,25 +2,20 @@
 HOST 2023 IP Security Competition Materials by Team JayHackers
 ```
 HOST23_IP_Sec_JayHackers
-│   README.md  
+│   README.md                                   -> Directory Sturcture and Usages
 └───presentations
 │   │   HOST_IPSec_Team_JayHackers_Phase-I.pptx -> Phase-I presentation slides
 └───rtl
-|   └───ecc_ASCON_AEAD         -> Error Correction Code (ECC)-based DFA Countermeasure Implementation and Testbench
-|   └───unprotected_ASCON_AEAD -> Error Correction Code (ECC)-based DFA Countermeasure Implementation and Testbench
-│   │   tb_ASCON_AEAD.sv
-│   │   testbench.md
-│   │   translated_blocks.txt
-└───dpa_scripts
-│   │   DPA_initialization_ASCON_simulated_traces_selection_function.ipynb
-│   │   KKC_DPA_ASCON_initalization_measured_traces.ipynb
+|   └───ecc_ASCON_AEAD                          -> Error Correction Code (ECC)-based DFA Countermeasure Implementation for ASCON_AEAD and Testbench
+|   └───unprotected_ASCON_AEAD                  -> Unprotected implementation of ASCON_AEAD and Testbench
+|   └───unprotected_ASCON_AEAD_INITIALIZATION   -> Unprotected implementation of ASCON_AEAD (INITIALIZATION phase) and Testbench
+|   └───unprotected_ASCON_AEAD_KU               -> Unprotected implementation of ASCON_AEAD and Testbench (KU)
+|   └───unprotected_ASCON_api                   -> Unprotected implementation of ASCON_AEAD with its API and Testbench
+|   └───urolled_ASCON_AEAD                      -> Unrolled implementation-based DPA Countermeasure Implementation for ASCON_AEAD and Testbench
+└───scripts
+|   └───dfa                                     -> Scripts for Differential Fault Analysis (DFA)
+|   └───dfa_countermeasures                     -> Scripts for DFA Countermeasures
+|   └───dpa                                     -> Scripts for Differential Power Analysis (DPA)
 └───dpa_countermeasures
-|   └───unrolled_implementation
-|   |   └───ASCON_2rc
-│   |   |   | tb_ASCON_AEAD_2rc.sv
-│   |   |   | translated_blocks.txt
-└───dfa_scripts
-|   │   ReadMe.txt
-└───dfa_countermeasures
-    └───ecc_implementation  
+|   │   Team_JayHackers.zip                     -> Phase-I presentation video
 ```
