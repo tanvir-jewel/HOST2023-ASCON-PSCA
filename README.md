@@ -4,9 +4,10 @@ HOST 2023 IP Security Competition Materials by Team JayHackers
 HOST23_IP_Sec_JayHackers
 │   README.md  
 └───presentations
-│   │   HOST_IPSec_Team_JayHackers_Phase-I.pptx
+│   │   HOST_IPSec_Team_JayHackers_Phase-I.pptx -> Phase-I presentation slides
 └───rtl
-    └───ecc_ASCON_AEAD: Error Correct Code
+|   └───ecc_ASCON_AEAD         -> Error Correction Code (ECC)-based DFA Countermeasure Implementation and Testbench
+|   └───unprotected_ASCON_AEAD -> Error Correction Code (ECC)-based DFA Countermeasure Implementation and Testbench
 │   │   tb_ASCON_AEAD.sv
 │   │   testbench.md
 │   │   translated_blocks.txt
