@@ -11,7 +11,7 @@ HOST23_IP_Sec_JayHackers
 |   └───unprotected_ASCON_AEAD_INITIALIZATION   -> Unprotected implementation of ASCON_AEAD (INITIALIZATION phase) and Testbench
 |   └───unprotected_ASCON_AEAD_KU               -> Unprotected implementation of ASCON_AEAD and Testbench (KU)
 |   └───unprotected_ASCON_api                   -> Unprotected implementation of ASCON_AEAD with its API and Testbench
-|   └───unrolled_ASCON_AEAD                      -> Unrolled implementation-based DPA Countermeasure Implementation for ASCON_AEAD and Testbench
+|   └───unrolled_ASCON_AEAD                     -> Unrolled implementation-based DPA Countermeasure Implementation for ASCON_AEAD and Testbench
 └───scripts
 |   └───dfa                                     -> Scripts for Differential Fault Analysis (DFA)
 |   └───dfa_countermeasures                     -> Scripts for DFA Countermeasures
